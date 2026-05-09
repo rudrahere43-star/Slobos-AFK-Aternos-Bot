@@ -8,7 +8,7 @@
   "server": {
     "ip": "Exon.aternos.me",
     "port": 60649,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
